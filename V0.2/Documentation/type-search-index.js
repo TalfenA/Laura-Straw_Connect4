@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.Connect_4_Game","l":"Board"},{"p":"org.Connect_4_Game","l":"PlayerColours.Colours"},{"p":"org.Connect_4_Game","l":"Game"},{"p":"org.Connect_4_Game","l":"Main"},{"p":"org.Connect_4_Game","l":"Player"},{"p":"org.Connect_4_Game","l":"PlayerColours"}];updateSearchResults();
